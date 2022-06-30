@@ -470,9 +470,15 @@ header{
         margin: auto;
         flex-direction: column;
         align-items: center;
-        
-        
-            
+      }
+      .container-principal .principal .texto form {
+        margin-top: 40px;
+        padding: 10px 50px;
+        border: none;
+        font-size: 20px;
+        color: rgb(67, 68, 68);
+        border-radius: 5px;
+        background-color: azure;
     }
     .container-principal .img-main img {
         box-shadow: 1px 1px 50px -40px #fff;
